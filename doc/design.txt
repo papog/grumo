@@ -1,0 +1,2 @@
+Grumo is a graphing and information display application that aims to works on several types of systems and architectures. 
+The main focus is a web application, implemented in GWT with a Java backend.
